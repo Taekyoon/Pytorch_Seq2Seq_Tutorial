@@ -30,6 +30,7 @@ $ jupyter notebook
 ```
 
 ## Dependencies
+This is my environment settings while running this project, so this is recommened settings. You don't have to follow this dependencies.
 * [Python 3.6.1](https://www.continuum.io/downloads)
 * [Pytorch 0.1.12](http://pytorch.org/)
 
