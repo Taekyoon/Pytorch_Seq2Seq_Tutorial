@@ -8,7 +8,7 @@ During following this practice, you need to fill out some code lines to run this
 You can run this model by using jupyter notebook which is a main practice place.  
 
 ### Is there any instructions for practice?
-Tutorial directions will be written on  practice jupyter notebook file. 
+Tutorial directions will be written on jupyter notebook file named '*_practice.ipynb'. 
 
 ### What results I can expect? 
 When you finish this tutorial, you can see a plot that shows how a loss value goes down and translate evaluation from the model. 
