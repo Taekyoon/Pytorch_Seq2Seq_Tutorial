@@ -25,6 +25,7 @@ $ git clone https://github.com/Taekyoon/Pytorch_Seq2Seq_Tutorial.git
 $ pip install -r requirements.txt
 $ cd Pytorch_Seq2Seq_Tutorial/data
 $ wget http://www.statmt.org/europarl/v6/fr-en.tgz
+$ tar -xvzf fr-en.tgz
 $ cd ..
 $ jupyter notebook
 ```
