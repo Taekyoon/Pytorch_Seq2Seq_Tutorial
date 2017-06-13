@@ -38,7 +38,7 @@ def normalize_string(s):
 
 
 def read_langs(lang1, lang2, n_words, down_margin, reverse=False):
-    all_filenames = glob.glob('tr_data/europarl-v7.fr-en.*')
+    all_filenames = glob.glob('data/europarl-v*.fr-en.*')
     print(all_filenames)
 
     print("Reading lines...")
