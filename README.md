@@ -19,4 +19,4 @@ $ jupyter notebook
 * [Pytorch 0.1.12](http://pytorch.org/)
 
 ## Reference
-* [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html) Written by [Sean Robertson](https://github.com/spro/practical-pytorch)
+* [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html), written by [Sean Robertson](https://github.com/spro/practical-pytorch)
