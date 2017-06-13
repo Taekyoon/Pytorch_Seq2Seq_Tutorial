@@ -10,6 +10,12 @@ class EncoderRNN(nn.Module):
         self.n_layers = n_layers
         self.hidden_size = hidden_size
 
+        '''
+        # Things you need to implement
+         - Declare components that use in Encoder RNN
+          1. Embedding Layer
+          2. GRU Module
+        '''
         self.embedding = nn.Embedding(input_size, hidden_size)
         self.gru = nn.GRU(hidden_size, hidden_size)
 
