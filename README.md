@@ -7,7 +7,7 @@ During following this practice, you need to fill out some code lines to run this
 ### How do I run my model?
 You can run this model by using jupyter notebook which is a main practice place.  
 
-### Is there any instructions for practice?
+### Are there any instructions for practice?
 Tutorial directions will be written on jupyter notebook file named '*_practice.ipynb'. 
 
 ### What results I can expect? 
