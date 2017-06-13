@@ -1,5 +1,5 @@
 # Pytorch Seq2Seq Machine Translation Tutorial
-This project is for beginners who want to learn about sequence to sequence model with pytorch. The repository gives Machine Translation model practice code to understand sequence to sequence model. You can run this model by using jupyter notebook which is a main practice place. During following this practice, you need to fill out some code lines to run this projects. The parts you get to fill out the blanks are mostly model parts and training module parts. Tutorial directions will be written on  practice jupyter notebook file. When you finish this tutorial, you can see a plot that shows how a loss value goes down and translate evaluation from the model. When you are stucked on this tutorial there are '*_completed' files which have an answer from your practice. This sources are referred from [this page](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html)
+This project is for beginners who want to learn about sequence to sequence model with pytorch. The repository gives Machine Translation model practice code to understand sequence to sequence model. You can run this model by using jupyter notebook which is a main practice place. During following this practice, you need to fill out some code lines to run this projects. The parts you get to fill out the blanks are mostly model parts and training module parts. Tutorial directions will be written on  practice jupyter notebook file. When you finish this tutorial, you can see a plot that shows how a loss value goes down and translate evaluation from the model. When you are stucked on this tutorial there are '*_completed.py' files which have an answer from your practice. This sources are referred from [this page](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html).
 
 ------------------------------------------------------------------------------------------------------------
 ## Getting Started 
@@ -17,3 +17,6 @@ $ jupyter notebook
 ## Dependencies
 * [Python 3.6.1](https://www.continuum.io/downloads)
 * [Pytorch 0.1.12](http://pytorch.org/)
+
+## Reference
+* [Translation with a Sequence to Sequence Network and Attention](http://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html) Written by [Sean Robertson](https://github.com/spro/practical-pytorch)
